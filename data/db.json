@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "title": "Order a pizza",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dolor orci, iaculis vel ultricies at, egestas ut justo. Maecenas congue, sem vitae tincidunt dapibus, dolor orci iaculis mauris, sed posuere justo sem et ipsum. Phasellus sollicitudin massa non quam iaculis, eu facilisis purus consectetur. Fusce scelerisque, metus eget suscipit fringilla, magna est suscipit magna, a bibendum tortor magna nec",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "My new note",
+      "details": "My Ne Details",
+      "category": "reminders",
+      "id": 4
+    }
+  ]
+}
